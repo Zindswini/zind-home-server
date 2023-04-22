@@ -1,4 +1,4 @@
-# Starting point
+# zind-home-server
 
 [![build-ublue](https://github.com/zindswini/zind-home-server/actions/workflows/build.yml/badge.svg)](https://github.com/zindswini/zind-home-server/actions/workflows/build.yml)
 
